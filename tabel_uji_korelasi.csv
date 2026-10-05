@@ -1,0 +1,3 @@
+Pasangan,Spearman ρ,p-value,Kekuatan,Keputusan,Pearson r,p-value (Pearson)
+Umur Tanaman (tahun) vs Yield,0.12250033162203845,0.1380114498757432,sangat lemah,Gagal tolak H0,0.3877670807545666,1.1200178079391223e-06
+SPH (pokok/ha) vs Yield,0.42777900053146284,5.860887756725678e-08,sedang,Tolak H0 (signifikan),0.49262187836734117,2.0199196268304075e-10
